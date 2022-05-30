@@ -22,6 +22,7 @@ pipeline
   stage("Check jarfile in target")
     {
       echo "Checking jar file in target"
+      echo "Build is being done using Maven Tool"
     }
   
   
